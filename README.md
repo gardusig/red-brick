@@ -6,3 +6,7 @@ Automated self-investing wallet, with input of money and infinite monthly donati
 - Add an outgoing point for donating monthly money
 
 As long as you donate less than what it generates, the wheel keep spinning forever. Eventually, everyone will be able to retrieve a good enough amount.
+
+Current design:
+
+![design](./red_brick.png)
