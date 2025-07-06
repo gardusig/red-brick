@@ -6,20 +6,11 @@ An automated investment fund designed to provide universal basic income through 
 
 **Red-brick** is a community-funded investment pool that grows over decades to eventually provide monthly basic income to participants. The system works on a simple principle: **invest contributions, distribute returns sustainably**.
 
-## How It Works
-
-- **Contributors** add money to build the fund
-- **Fund managers** invest in diversified portfolios (targeting 7% annual returns)
-- **Recipients** receive monthly payments once the fund reaches sufficient size
-- **Sustainability** is maintained by paying out less than the fund generates
-
-The key insight: *As long as annual distributions stay below investment returns, the fund grows indefinitely while supporting more people each year.*
-
-## Vision & Scale
-
-Starting with $1M and 7% annual returns, the fund could theoretically grow to support:
+*As long as annual distributions stay below investment returns, the fund grows indefinitely while supporting more people each year.*
 
 ## Fund exponential growth
+
+Starting with $1M and 7% annual returns, the fund could theoretically grow to support:
 
 | Year | Fund Balance | Annual Return (≈7%) | People (2ⁿ) | Monthly donation per person |
 | ---- | ------------ | ------------------- | ----------- | --------------------------- |
