@@ -42,3 +42,7 @@ Starting with $1M and 7% annual returns, the fund could theoretically grow to su
 | 250  | \$10T        | 15,000,000       |
 | 275  | \$40T        | 60,000,000       |
 | 300  | \$160T       | 250,000,000      |
+
+## System Design
+
+![initial-design](./red%20brick.png)
